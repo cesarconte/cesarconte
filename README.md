@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm César, a 47 years old guy who lives in Gijon, Asturias (Spain). 
+
+Nowadays, i'm taking part of Digital Academy Asturias's Bootcamp (Factoría F5).
+
+I’m currently learning FrontEnd Development ('til now, HTML, CSS, Bootstrap, Sass... next weak comes JavaScript).
+
+Later on, BackEnd.
 <!--
 **cesarconte/cesarconte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
