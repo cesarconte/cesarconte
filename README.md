@@ -2,9 +2,9 @@
 
 I'm César, a 47 years old guy who lives in Gijon, Asturias (Spain). 
 
-Nowadays, i'm taking part of Digital Academy Asturias's Bootcamp (Factoría F5).
+Nowadays, i'm taking part of Asturias Digital Academy's Bootcamp (Factoría F5).
 
-I’m currently learning FrontEnd Development ('til now, HTML, CSS, Bootstrap, Sass... next weak comes JavaScript).
+Right now, i'm learning FrontEnd Development ('til now, HTML, CSS, Bootstrap, Sass... next, JavaScript, Vue.js).
 
 Later on, BackEnd.
 <!--
