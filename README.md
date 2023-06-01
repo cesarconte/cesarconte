@@ -21,7 +21,7 @@ Skills: / HTML / CSS / Sass / Bootstrap / Tailwind / JavaScript
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cesarconte)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=cesarconte&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=cesarconte&show_icons=true)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cesarconte)
 
