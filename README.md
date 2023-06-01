@@ -23,7 +23,7 @@ Skills: / HTML / CSS / Sass / Bootstrap / Tailwind / JavaScript
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=cesarconte&show_icons=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cesarconte)  
+![GitHub Activity Graph][(https://activity-graph.herokuapp.com/graph?username=cesarconte) ](https://github-readme-activity-graph.vercel.app) 
 
 
 
