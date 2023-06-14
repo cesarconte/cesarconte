@@ -13,9 +13,9 @@ Right now, I'm with the FrontEnd Development part.
 
 Later, it will be the turn for BackEnd.
 
-Skills: / HTML / CSS / Sass / Bootstrap / Tailwind / JavaScript 
+Skills: / HTML / CSS / Sass / Bootstrap / Tailwind / Less / JavaScript / Vue
 
-- 🌱 I’m currently learning HTML, CSS, Sass, Botstrap, Tailwind and JavaScrip 
+- 🌱 I’m currently learning HTML, CSS, Sass, Botstrap, Tailwind, Less, JavaScript and Vue.
 - ⚡ Fun fact: "Curiosity killed the cat" 
 
 
