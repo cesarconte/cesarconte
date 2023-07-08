@@ -15,7 +15,7 @@ Later, it will be the turn for BackEnd.
 
 Skills: / HTML / CSS / Sass / Bootstrap / Tailwind / JavaScript / Vue / Vuetify
 
-- 🌱 I’m currently learning HTML, CSS, Sass, Botstrap, Tailwind, Less, JavaScript and Vue.
+- 🌱 I’m currently learning HTML, CSS, Sass, Botstrap, Tailwind, Less, JavaScript, Vue, Vuetify. Testing: Jest and Vitest.
 - ⚡ Fun fact: "Curiosity killed the cat" 
 
 
