@@ -13,9 +13,9 @@ The FrontEnd Development part is done.
 
 Now, is the turn for the BackEnd.
 
-Skills: / Visual Studio Code / IntelliJ / Jira / Trello / Postman /
-        / HTML / CSS / Sass / Bootstrap / Tailwind / JavaScript / Vue / Vuetify /
-        / Vitest / Jest /
+Skills: / Visual Studio Code / IntelliJ / Jira / Trello / Postman
+        / HTML / CSS / Sass / Bootstrap / Tailwind / JavaScript / Vue / Vuetify
+        / Vitest / Jest
         / Starting with Java & JUnit / First steps with SQL /
 
 - ⚡ Fun fact: "Curiosity killed the cat" 
