@@ -8,14 +8,16 @@ My name is César. I'm 47 year old, and I live in Gijón, a coastal city located
 Since May 2nd, I'm participating in the Bootcamp 2023 Asturias Digital Academy (Factoría F5).
 
 
-Right now, I'm with the FrontEnd Development part. 
+The FrontEnd Development part is done. 
 
 
-Later, it will be the turn for BackEnd.
+Now, is the turn for the BackEnd.
 
-Skills: / HTML / CSS / Sass / Bootstrap / Tailwind / JavaScript / Vue / Vuetify / Jest
+Skills: / Visual Studio Code / IntelliJ / Jira / Trello / Postman /
+        / HTML / CSS / Sass / Bootstrap / Tailwind / JavaScript / Vue / Vuetify /
+        / Vitest / Jest /
+        / Starting with Java & JUnit / First steps with SQL /
 
-- 🌱 I’m currently learning HTML, CSS, Sass, Botstrap, Tailwind, Less, JavaScript, Vue, Vuetify. Testing: Jest and Vitest.
 - ⚡ Fun fact: "Curiosity killed the cat" 
 
 
