@@ -16,7 +16,7 @@ Now, is the turn for the BackEnd.
 Skills: / Visual Studio Code / IntelliJ / Jira / Trello / Postman
         / HTML / CSS / Sass / Bootstrap / Tailwind / JavaScript / Vue / Vuetify
         / Vitest / Jest
-        / Starting with Java & JUnit / First steps with SQL /
+        / Starting with Java & JUnit / First steps with SQL & Spring Boot /
 
 - ⚡ Fun fact: "Curiosity killed the cat" 
 
